@@ -1,4 +1,5 @@
 /.ipynb_checkpoints/
+/catboost_info/
 BaselineSubmission.csv
 submission.csv
 *.pdf
