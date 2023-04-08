@@ -1,5 +1,10 @@
 /.ipynb_checkpoints/
 /catboost_info/
+Train.csv
+Test.csv
+New_Train.csv
+New_Test.csv
+Data_sources_and_collection.pdf
 BaselineSubmission.csv
 submission.csv
 *.pdf
